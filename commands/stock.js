@@ -29,7 +29,7 @@ module.exports = {
 			embed.addField('Premium Services', premiumStockInfo, true);
 		}
 
-		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](discord.gg/fakeproofs)`);
+		embed.addField('Please Subscribe', `[**Website**](${config.website}) [**Discord**](https://youtube.com/@glowingscripts?si=f4RKas4m85iEQsDF)`);
 
 		interaction.reply({ embeds: [embed] });
 	},
