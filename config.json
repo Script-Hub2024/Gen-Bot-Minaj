@@ -15,8 +15,8 @@
 
   "genChannel": "1341431785116139542",
   "premiumChannel": "1341432203250241628",
-  "genCooldown": "10",
-  "premiumCooldown": "5",
+  "genCooldown": "60",
+  "premiumCooldown": "20",
 
   "color": {
     "green": "0x57F287",
